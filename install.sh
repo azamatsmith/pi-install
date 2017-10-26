@@ -1,13 +1,12 @@
 #!/bin/sh
 # update & upgrade #
 sudo apt-get update
-sudo apt-get upgrade
+# sudo apt-get upgrade
 
 # sudo apt-get remove gnome-games gnome-games-common empathy
 
 # INSTALL new apps #
 sudo apt-get install git vim eject 
-
 
 #Install node
 sudo bash
