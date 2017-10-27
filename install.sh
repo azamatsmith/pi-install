@@ -15,5 +15,5 @@ sudo wget -O - https://raw.githubusercontent.com/audstanley/NodeJs-Raspberry-Pi/
 
 #install pm2
 npm i pm2 -g
-sudo echo "export PATH=$PATH:/opt/nodejs/lib/node_modules/pm2/bin" >> .bashrc
+sudo echo "export PATH=$PATH:/opt/nodejs/lib/node_modules/pm2/bin" >> ~/.bashrc
 
